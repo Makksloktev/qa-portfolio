@@ -8,21 +8,30 @@ Here you can find examples of my work and practice in manual software testing. T
 
 ## Contents
 
-### 1. Test Cases  
+## 1. Certificates
+📁 [`certificates/`](./certificates) 
+
+### [Software Testing from Scratch. Theory + Practice](https://stepik.org/cert/2817429)  
+
+Completed on: April 11, 2025  
+
+Issued by: Stepik
+
+### 2. Test Cases  
 📁 [`test-cases/`](./test-cases)  
 - TC001_login_positive.md  
 - TC002_login_invalid_password.md
 
-### 2. Checklists  
+### 3. Checklists  
 📁 [`checklists/`](./checklists)  
 - login_page_checklist.md
 
-### 3. Bug Reports  
+### 4. Bug Reports  
 📁 [`bug-reports/`](./bug-reports)  
 - BR001_login_button_not_working.md  
 - BR002_missing_validation_email_field.md
 
-### 4. Test Plan  
+### 5. Test Plan  
 📁 [`test-plan/`](./test-plan)  
 - test-plan-login-feature.md
 
